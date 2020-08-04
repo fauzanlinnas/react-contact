@@ -1,7 +1,8 @@
-# React CRUD app with Hooks
+# React Contacts
 
-Simple app using React and Hooks.
+The DELETE API doesn't work, tried using the /documentation api still didn't work.
 
-Automatically deployed by AWS Amplify:
-
-https://master.d3nd8fc088qo5a.amplifyapp.com/
+Kekurangan:
+- Tidak memakai redux
+- Tidak ada unit testing
+- Tidak ada memakai get contact by id
